@@ -29,7 +29,7 @@ function Job() {
 
       <div className="h-auto pt-7 py-4 flex justify-center items-center font-medium">
         Jobs / {filteredJob.job} -{" "}
-        <h4 className="uppercase"> {filteredJob.company} </h4>
+        <h4 className="capitalize"> {filteredJob.company} </h4>
       </div>
 
       <div className="h-auto py-2 flex justify-center items-center flex-col space-y-4 ">
@@ -66,7 +66,10 @@ function Job() {
           </div>
           <div className="inline-block pt-4">
             <a href={filteredJob.link} target="_blank">
-              <MyBlueButton className="h-auto py-3 cursor-pointer" text="Apply Now 🚀" />
+              <MyBlueButton
+                className="h-auto py-3 cursor-pointer"
+                text="Apply Now 🚀"
+              />
             </a>
             <p className="h-auto py-5 font-medium text-xl">
               ✍️ Job Description
