@@ -10,7 +10,7 @@ function App() {
       element: <Home />,
     },
     {
-      path: BASEURL + "job/:id",
+      path: BASEURL + "/job/:id",
       element: <Job />,
     },
   ]);
