@@ -11,7 +11,7 @@ function JobCard(props: any) {
   return (
     <div
       onClick={() => {
-        navigate(`/job/${props.job.id}`);
+        navigate(`/SEC-2023-Day-15/job/${props.job.id}`);
       }}
       className="border p-4 rounded-md w-[350px] space-y-4 cursor-pointer bg-white"
     >
