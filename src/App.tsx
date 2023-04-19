@@ -1,15 +1,16 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Home from "./pages/Home";
 import Job from "./pages/Job";
+import { BASEURL } from "./constant/config";
 
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/SEC-2023-Day-15",
+      path: BASEURL,
       element: <Home />,
     },
     {
-      path: "/SEC-2023-Day-15/job/:id",
+      path: BASEURL + "job/:id",
       element: <Job />,
     },
   ]);

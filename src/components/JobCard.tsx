@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import { BASEURL } from "../constant/config";
 
 function JobCard(props: any) {
   //  function to detect if the year is 2023, isNew === true
@@ -11,7 +12,7 @@ function JobCard(props: any) {
   return (
     <div
       onClick={() => {
-        navigate(`/SEC-2023-Day-15/job/${props.job.id}`);
+        navigate(`${BASEURL}/job/${props.job.id}`);
       }}
       className="border p-4 rounded-md w-[350px] space-y-4 cursor-pointer bg-white"
     >
