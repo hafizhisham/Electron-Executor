@@ -5,11 +5,11 @@ import Job from "./pages/Job";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/SEC-2023-Day-15",
       element: <Home />,
     },
     {
-      path: "/job/:id",
+      path: "/SEC-2023-Day-15/job/:id",
       element: <Job />,
     },
   ]);
